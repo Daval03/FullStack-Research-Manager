@@ -1,0 +1,50 @@
+## .NET Core
+bin/
+obj/
+*.user
+*.userosscache
+*.suo
+*.userprefs
+*.sln.docstates
+
+## Build results
+[Dd]ebug/
+[Rr]elease/
+x64/
+build/
+[Bb]in/
+[Oo]bj/
+
+## Visual Studio
+.vs/
+*.csproj.user
+*.csproj.user.*
+*.dbmdl
+*.swp
+*.sln
+*.orig
+
+## User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+## Config files
+appsettings.Development.json
+appsettings.Production.json
+
+## NuGet Packages
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+artifacts/
+
+## Benchmark
+BenchmarkDotNet.Artifacts/
+
+## JetBrains Rider
+.idea/
+*.sln.iml

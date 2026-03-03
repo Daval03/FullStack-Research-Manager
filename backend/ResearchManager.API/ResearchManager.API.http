@@ -1,0 +1,6 @@
+@ResearchManager.API_HostAddress = http://localhost:5103
+
+GET {{ResearchManager.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
