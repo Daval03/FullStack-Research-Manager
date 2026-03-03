@@ -48,3 +48,6 @@ BenchmarkDotNet.Artifacts/
 ## JetBrains Rider
 .idea/
 *.sln.iml
+
+## Dataset
+**/dataset/**
